@@ -1,0 +1,494 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co/cFbDY9D/Apple-i-Phone-15-Pro-Max.jpg",
+    "category": "Smartphones",
+    "price": 170.00,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LIDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co/rxM3vRJ/Samsung-Galaxy-S23-Ultra.jpg",
+    "category": "Smartphones",
+    "price": 165.00,
+    "description": "The latest Galaxy S23 Ultra with powerful performance and camera.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 2",
+      "Quad-camera system (200MP Main, 10MP Periscope, 10MP Telephoto, 12MP Ultrawide)",
+      "S Pen support",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i.ibb.co/3BNk5LP/Google-Pixel-8-Pro.jpg",
+    "category": "Smartphones",
+    "price": 160.00,
+    "description": "Google Pixel 8 Pro with an outstanding camera and Tensor G3 chip.",
+    "specification": [
+      "6.7-inch OLED display",
+      "Tensor G3 chip",
+      "Triple-camera system (50MP Main, 48MP Telephoto, 12MP Ultrawide)",
+      "Up to 1TB storage",
+      "Face and fingerprint unlock"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co/7jTBrVp/One-Plus-11.jpg",
+    "category": "Smartphones",
+    "price": 155.00,
+    "description": "The fast and responsive OnePlus 11 with high-end specifications.",
+    "specification": [
+      "6.7-inch QHD+ display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (50MP Main, 32MP Telephoto, 48MP Ultrawide)",
+      "5000mAh battery",
+      "80W SuperVOOC charging"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Xiaomi 13 Pro",
+    "product_image": "https://i.ibb.co/ZWDrSqr/Xiaomi-13-Pro.jpg",
+    "category": "Smartphones",
+    "price": 150.00,
+    "description": "Xiaomi 13 Pro with an advanced camera and powerful Snapdragon chip.",
+    "specification": [
+      "6.73-inch AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (50MP Main, 50MP Telephoto, 50MP Ultrawide)",
+      "Up to 512GB storage",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Sony Xperia 1 V",
+    "product_image": "https://i.ibb.co/PC1rtfH/Sony-Xperia-1-V.jpg",
+    "category": "Smartphones",
+    "price": 145.00,
+    "description": "Sony Xperia 1 V with 4K display and professional-grade camera.",
+    "specification": [
+      "6.5-inch 4K OLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "12GB RAM",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "C001",
+    "product_title": "MacBook Pro 16-inch",
+    "product_image": "https://i.ibb.co/ZWkfSrC/Mac-Book-Pro-16-inch.jpg",
+    "category": "Laptops",
+    "price": 199.00,
+    "description": "Powerful 16-inch MacBook Pro with M2 Max chip.",
+    "specification": [
+      "16-inch Liquid Retina XDR display",
+      "Apple M2 Max chip",
+      "32GB RAM",
+      "1TB SSD storage",
+      "Up to 22 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "C002",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co/k4tVV77/Dell-XPS-13.jpg",
+    "category": "Laptops",
+    "price": 195.00,
+    "description": "Compact and powerful Dell XPS 13 laptop.",
+    "specification": [
+      "13.4-inch FHD+ display",
+      "Intel i7 13th Gen",
+      "16GB RAM",
+      "512GB SSD storage",
+      "Fingerprint reader"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "SW001",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co/X3RNgHS/Apple-Watch-Series-9.jpg",
+    "category": "Smartwatches",
+    "price": 140.00,
+    "description": "Advanced health tracking with the Apple Watch Series 9.",
+    "specification": [
+      "Always-on Retina display",
+      "Blood Oxygen and ECG monitoring",
+      "Up to 18 hours battery life",
+      "Water resistant up to 50m"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "SW002",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co/S71sRVn/Samsung-Galaxy-Watch-6.jpg",
+    "category": "Smartwatches",
+    "price": 135.00,
+    "description": "Stylish and feature-rich Galaxy Watch 6 for everyday health tracking.",
+    "specification": [
+      "1.5-inch AMOLED display",
+      "ECG and Blood Pressure Monitoring",
+      "Water resistant up to 50m",
+      "Up to 24 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "CH001",
+    "product_title": "Anker 65W Fast Charger",
+    "product_image": "https://i.ibb.co/WFZzntQ/Anker-65-W-Fast-Charger.jpg",
+    "category": "Chargers",
+    "price": 80.00,
+    "description": "Fast and reliable 65W wall charger compatible with multiple devices.",
+    "specification": [
+      "65W output",
+      "USB-C and USB-A ports",
+      "Overcharge and overheat protection",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "CH002",
+    "product_title": "Apple 20W USB-C Power Adapter",
+    "product_image": "https://i.ibb.co/89NBWLr/Apple-20-W-USB-C-Power-Adapter.jpg",
+    "category": "Chargers",
+    "price": 75.00,
+    "description": "Apple 20W USB-C power adapter for fast and efficient charging.",
+    "specification": [
+      "20W output",
+      "USB-C port",
+      "Compact design",
+      "Optimized for iPhone and iPad"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "PB001",
+    "product_title": "Anker PowerCore 20000mAh",
+    "product_image": "https://i.ibb.co/jfqDyBG/Anker-Power-Core-20000m-Ah.jpg",
+    "category": "Powerbanks",
+    "price": 110.00,
+    "description": "High-capacity power bank for long trips and heavy usage.",
+    "specification": [
+      "20000mAh capacity",
+      "Dual USB-A output",
+      "Compact and lightweight",
+      "LED power indicator"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "PB002",
+    "product_title": "Xiaomi Mi Power Bank 10000mAh",
+    "product_image": "https://i.ibb.co/mBZqcWb/Xiaomi-Mi-Power-Bank-10000m-Ah.jpg",
+    "category": "Powerbanks",
+    "price": 105.00,
+    "description": "Slim and portable 10000mAh power bank with fast charging.",
+    "specification": [
+      "10000mAh capacity",
+      "Dual USB output",
+      "Fast charging support",
+      "Slim design"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": "C003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co/TqBcw5N/HP-Spectre-x360.jpg",
+    "category": "Laptops",
+    "price": 190.00,
+    "description": "HP Spectre x360 with 2-in-1 convertible design.",
+    "specification": [
+      "13.5-inch OLED touch display",
+      "Intel i7 13th Gen",
+      "16GB RAM",
+      "1TB SSD storage",
+      "Up to 14 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "C004",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co/5kTKqjY/Lenovo-Think-Pad-X1-Carbon.jpg",
+    "category": "Laptops",
+    "price": 185.00,
+    "description": "Business laptop with lightweight design and powerful performance.",
+    "specification": [
+      "14-inch FHD display",
+      "Intel i7 12th Gen",
+      "16GB RAM",
+      "512GB SSD storage",
+      "Fingerprint reader"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "C005",
+    "product_title": "ASUS ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co/mzST3jV/ASUS-ROG-Zephyrus-G14.jpg",
+    "category": "Laptops",
+    "price": 180.00,
+    "description": "Gaming laptop with AMD Ryzen processor and high refresh rate.",
+    "specification": [
+      "14-inch QHD 120Hz display",
+      "AMD Ryzen 9 6000 Series",
+      "16GB RAM",
+      "1TB SSD storage",
+      "GeForce RTX 3060 GPU"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "C006",
+    "product_title": "Microsoft Surface Laptop Studio",
+    "product_image": "https://i.ibb.co/nB6Pdqb/Microsoft-Surface-Laptop-Studio.jpg",
+    "category": "Laptops",
+    "price": 175.00,
+    "description": "Versatile laptop with touchscreen and high performance.",
+    "specification": [
+      "14.4-inch PixelSense Flow display",
+      "Intel i7 11th Gen",
+      "32GB RAM",
+      "1TB SSD storage",
+      "NVIDIA GeForce RTX 3050 Ti GPU"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "SW003",
+    "product_title": "Garmin Venu 2",
+    "product_image": "https://i.ibb.co/L1mxFZ5/Garmin-Venu-2.jpg",
+    "category": "Smartwatches",
+    "price": 130.00,
+    "description": "Fitness-focused smartwatch with Garmin Venu 2.",
+    "specification": [
+      "AMOLED display",
+      "Advanced fitness and sleep tracking",
+      "GPS and heart rate monitoring",
+      "Up to 11 days battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "SW004",
+    "product_title": "Fitbit Sense 2",
+    "product_image": "https://i.ibb.co/SrYgCqJ/Fitbit-Sense-2.jpg",
+    "category": "Smartwatches",
+    "price": 125.00,
+    "description": "Fitbit's latest Sense 2 with stress and health tracking.",
+    "specification": [
+      "1.58-inch AMOLED display",
+      "ECG, EDA, and SpO2 sensors",
+      "Water-resistant up to 50m",
+      "Up to 6 days battery life"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "SW005",
+    "product_title": "Huawei Watch GT 3 Pro",
+    "product_image": "https://i.ibb.co/CbX8RXW/Huawei-Watch-GT-3-Pro.jpg",
+    "category": "Smartwatches",
+    "price": 120.00,
+    "description": "Huawei Watch GT 3 Pro with long-lasting battery and titanium design.",
+    "specification": [
+      "1.43-inch AMOLED display",
+      "Up to 14 days battery life",
+      "Heart rate and SpO2 monitoring",
+      "Water-resistant up to 30m"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "SW006",
+    "product_title": "Amazfit GTS 4",
+    "product_image": "https://i.ibb.co/6X9sWZj/Amazfit-GTS-4.jpg",
+    "category": "Smartwatches",
+    "price": 115.00,
+    "description": "Affordable smartwatch with fitness features by Amazfit.",
+    "specification": [
+      "1.65-inch AMOLED display",
+      "GPS tracking",
+      "Heart rate and SpO2 monitoring",
+      "Up to 7 days battery life"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "CH003",
+    "product_title": "Samsung 45W Super Fast Charger",
+    "product_image": "https://i.ibb.co/D9Kpv3F/Samsung-45-W-Super-Fast-Charger.png",
+    "category": "Chargers",
+    "price": 70.00,
+    "description": "Samsung's 45W super fast charger for quick charging on the go.",
+    "specification": [
+      "45W output",
+      "USB-C port",
+      "Over-voltage protection",
+      "Compatible with Galaxy devices"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "CH004",
+    "product_title": "Belkin 30W USB-C Charger",
+    "product_image": "https://i.ibb.co/k96kLVt/Belkin-30-W-USB-C-Charger.jpg",
+    "category": "Chargers",
+    "price": 65.00,
+    "description": "Belkin 30W USB-C charger for fast and reliable charging.",
+    "specification": [
+      "30W output",
+      "USB-C port",
+      "Compact and travel-friendly",
+      "Supports PD 3.0"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "CH005",
+    "product_title": "Google 18W USB-C Power Adapter",
+    "product_image": "https://i.ibb.co/FqyXb48/Google-18-W-USB-C-Power-Adapter.jpg",
+    "category": "Chargers",
+    "price": 60.00,
+    "description": "Google 18W USB-C power adapter for Pixel devices.",
+    "specification": [
+      "18W output",
+      "USB-C port",
+      "Compact design",
+      "Optimized for Google Pixel devices"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "CH006",
+    "product_title": "RAVPower 90W Dual USB-C Charger",
+    "product_image": "https://i.ibb.co/VpNGnxh/RAVPower-90-W-Dual-USB-C-Charger.jpg",
+    "category": "Chargers",
+    "price": 55.00,
+    "description": "RAVPower 90W charger with dual USB-C ports for simultaneous fast charging.",
+    "specification": [
+      "90W total output",
+      "Dual USB-C ports",
+      "Power Delivery 3.0",
+      "Compact and foldable design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "PB003",
+    "product_title": "Samsung 10000mAh Wireless Powerbank",
+    "product_image": "https://i.ibb.co/R46X1pf/Samsung-10000m-Ah-Wireless-Power-Bank.jpg",
+    "category": "Powerbanks",
+    "price": 100.00,
+    "description": "Samsung power bank with wireless charging capability.",
+    "specification": [
+      "10000mAh capacity",
+      "Wireless charging support",
+      "USB-C input/output",
+      "Slim and portable design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "PB004",
+    "product_title": "RAVPower 26800mAh Power Bank",
+    "product_image": "https://i.ibb.co/tppXnM1/RAVPower-26800m-Ah-Power-Bank.jpg",
+    "category": "Powerbanks",
+    "price": 95.00,
+    "description": "Ultra high-capacity power bank for extended usage.",
+    "specification": [
+      "26800mAh capacity",
+      "Three USB outputs",
+      "Quick Charge 3.0",
+      "LED battery indicator"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "PB005",
+    "product_title": "Zendure SuperMini 10000mAh",
+    "product_image": "https://i.ibb.co/hyZqBdh/Zendure-Super-Mini-10000m-Ah.jpg",
+    "category": "Powerbanks",
+    "price": 90.00,
+    "description": "Compact power bank with 10000mAh capacity and fast charging.",
+    "specification": [
+      "10000mAh capacity",
+      "USB-C PD output",
+      "Ultra-compact design",
+      "LED power indicator"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "PB006",
+    "product_title": "Mophie PowerStation Plus XL",
+    "product_image": "https://i.ibb.co/zQmzXc5/Mophie-Power-Station-Plus-XL.jpg",
+    "category": "Powerbanks",
+    "price": 85.00,
+    "description": "High-capacity power bank with integrated lightning cable.",
+    "specification": [
+      "12000mAh capacity",
+      "Integrated lightning and USB-C cables",
+      "Dual charging ports",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  }
+]
